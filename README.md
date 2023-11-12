@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Welcome to my corner of the GitHub universe! A passionate web developer with a deep love for crafting robust and elegant digital experiences.
+Welcome to my corner of the GitHub universe! I'm a passionate web developer with a deep love for crafting robust and elegant digital experiences.
 
 * 🌍  I'm based in Beirut, Lebanon
 * ✉️  You can contact me at [alimokdad961@gmail.com](mailto:alimokdad961@gmail.com)
